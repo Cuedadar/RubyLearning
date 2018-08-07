@@ -1,3 +1,5 @@
+# The print method
+
 puts "Hello"
 puts "World"
 

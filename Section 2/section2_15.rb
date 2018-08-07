@@ -1,3 +1,5 @@
+# The p method
+
 puts "Steven Seagal"
 p "Steven Seagal"
 

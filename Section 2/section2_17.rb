@@ -1,3 +1,5 @@
+# Comments
+
 # This is a comment
 
 puts "Hello World" # Prints "Hello World" to the console

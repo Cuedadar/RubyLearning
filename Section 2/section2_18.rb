@@ -1,3 +1,5 @@
+# Variables
+
 name = "John"
 last_name = "King"
 handsome = true
